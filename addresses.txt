@@ -1,0 +1,30 @@
+Rubble
+Barney
+2 Rock lane
+00001
+555-555-0002
+Flintstone
+Fred
+1 Rock Lane
+00001
+555-555-0001
+Man
+Super
+6 Globe Place
+03333
+555-555-0003
+Man
+Bat
+The Bat Cave
+66666
+555-555-0004
+Man
+Iron
+Somewhere in Malibu
+90210
+555-555-0005
+Kent
+Clark
+7 Globe Place
+03333
+555-555-0003
